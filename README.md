@@ -4,5 +4,5 @@ Refactoring the index.html and style.css for Horiseon.  Added alt atributes to i
 
 Deployed Link: https://carl-33.github.io/Refactor/
 
-Things that went well, commented out things before deleting so I could view changes side by side. Added a rel image and a Titile (outside the scope of the project, but it made it easier to work on when I had multiple tabs open) 
+Things that went well, commented out redundant lines before deleting them so I could view any changes side by side. Added a rel image and a Title (outside the scope of the project, but it made it easier to work on when I had multiple tabs open) 
 
