@@ -1,6 +1,6 @@
 # Refactor the Horiseon Website
 
-Refactoring the index.html and style.css for Horiseon.  Added alt atributes to images.  Used semantic tags instead of divs with classes when applicable. And combined CSS attributes using semantic tags instead of classes when they became redundant.
+Refactoring the index.html and style.css for Horiseon.  Added alt atributes to images.  Used semantic tags instead of divs with classes when applicable. And consolidated CSS attributes using semantic tags instead of classes when they became redundant.
 
 Deployed Link: https://carl-33.github.io/Refactor/
 
