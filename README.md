@@ -4,7 +4,7 @@ Refactoring the index.html and style.css for Horiseon.  Added alt atributes to i
 
 Deployed Link: https://carl-33.github.io/Refactor/
 
-
+![Horiseon Gif](assets/images/Horiseon.gif)
 
 Things that went well, commented out redundant lines before deleting them so I could view any changes side by side. Added an icon image and a Title (outside the scope of the project, but it made it easier to work on when I had multiple tabs open) 
 
